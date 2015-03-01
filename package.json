@@ -1,0 +1,16 @@
+{
+  "name": "webdetector",
+  "version": "0.1.0",
+  "maintainers": [
+    {
+      "name": "luckydrq",
+      "email": "drqzju@gmail.com"
+    }
+  ],
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+  "devDependencies": {
+    "mocha": "~2.1.0"
+  }
+}
